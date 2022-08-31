@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="850" height="300" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif">
+<img align="center" alt="Coding" width="850" height="300" src="https://msfs-cdn.azureedge.net/wp-content/uploads/2020/12/Smooth-Development-Banner-GIF.gif">
  
 <h1 align="left">Hi 👋, I'm Swati Sukla</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
